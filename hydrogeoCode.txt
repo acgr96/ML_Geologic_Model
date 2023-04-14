@@ -1,0 +1,1 @@
+IF(G2="Organics",1,IF(G2="ConcreteCrush",2,IF(G2="Sand/Silt/Till1",3,IF(G2="Clay",4,IF(G2="Sand/Silt/Till2",5,IF(G2="Cobbles",6,IF(G2="Bedrock",7)))))))
